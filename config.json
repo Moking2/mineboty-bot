@@ -3,6 +3,7 @@
     "port": "64389",
     "password": "",
     "prefix": "",
+    "name": "Mo2BOT",
     "login-enabled": "false",
     "register-cmd": "/login kartikopp kartikopp",
     "login-cmd": "/login kartikopp",
